@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭System Informatics and Business Student of State Polytechnic of Malan
+🔭Information System and Business Student of State Polytechnic of Malan
 
 
 # 💻 Tech Stack:
