@@ -42,9 +42,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dimasaditthaliaputra&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_KAMU&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasaditthaliaputra&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -52,7 +52,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME_GITHUB_KAMU&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dimasaditthaliaputra&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 <br/>
