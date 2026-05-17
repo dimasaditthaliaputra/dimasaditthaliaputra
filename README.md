@@ -42,8 +42,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimasaditthaliaputra&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasaditthaliaputra&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
