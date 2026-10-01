@@ -1,44 +1,65 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random" />
 </div>
 
-###
+<h1 data-importer="text" align="center">Hey 👋 What's Up?</h1>
 
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<p align="center">
+  Information Systems & Business Student · Web & Mobile Developer
+</p>
 
-###
+<p align="center">
+  Building things, learning new technologies, and turning ideas into practical applications.
+</p>
+
+---
+
+<h2 align="center">About Me</h2>
+
+<p align="center">
+  I'm Dimas, an Information Systems and Business student at the State Polytechnic of Malang.
+  I'm passionate about <strong>Web & Mobile Development</strong> and currently exploring
+  modern technologies to build useful and scalable applications.
+</p>
+
+<p align="center">
+  I enjoy learning by building projects, experimenting with new tools,
+  and occasionally debugging with a cup of coffee.
+</p>
+
+---
 
 <div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo" />
 </div>
 
-###
+---
 
 <div data-importer="socials" align="center">
   <a href="https://www.instagram.com/dimaslune" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="mailto:dimasadit836@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="email logo" />
+  </a>
 </div>
 
-###
+---
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=dimasaditthaliaputra&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/dimasaditthaliaputra/dimasaditthaliaputra/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=dimasaditthaliaputra&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://raw.githubusercontent.com/dimasaditthaliaputra/dimasaditthaliaputra/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
-
-###
 
 <br clear="both">
 
@@ -48,4 +69,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dimasaditthaliaputra/dimasaditthaliaputra/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-###
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=0&animation=fadeIn&color=random" width="100%" alt="footer" />
+</div>
